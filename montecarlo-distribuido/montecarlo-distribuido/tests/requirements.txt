@@ -1,0 +1,9 @@
+pytest
+fakeredis
+httpx
+fastapi==0.115.0
+numpy==2.1.1
+pika==1.3.2
+redis==5.0.8
+prometheus-client==0.20.0
+psutil==6.0.0
